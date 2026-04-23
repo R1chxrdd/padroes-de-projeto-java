@@ -39,7 +39,4 @@ O projeto aplica conceitos clássicos de engenharia de software através de cód
 - Baixo acoplamento e alta coesão
 
 
-# Navegar para o padrão que deseja testar (exemplo: singleton)
-cd singleton
 
-# A partir daqui, você pode compilar e executar a classe Main do diretório escolhido usando sua IDE ou via linha de comando
