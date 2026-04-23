@@ -38,14 +38,6 @@ O projeto aplica conceitos clássicos de engenharia de software através de cód
 - Composição vs Herança
 - Baixo acoplamento e alta coesão
 
-## Como Executar
-
-```bash
-# Clonar o repositório
-git clone [https://github.com/seuusuario/padroes-de-projeto-java.git](https://github.com/seuusuario/padroes-de-projeto-java.git)
-
-# Entrar na pasta do projeto
-cd padroes-de-projeto-java
 
 # Navegar para o padrão que deseja testar (exemplo: singleton)
 cd singleton
